@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Jonas and I taught myself how to code Java, JS, HTML and CSS. Full stack.
+
 I code since the age of about 11. I go to a german school, 10th grade.
 
 - 🔭 I’m currently working on CustomDiscord.
