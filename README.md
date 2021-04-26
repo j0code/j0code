@@ -8,6 +8,6 @@ I code since the age of about 11. I go to a german school, 10th grade.
 - 😄 Pronouns: any
 - ⚡ Fun fact: ...
 
-[![j0code's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0code)](https://github.com/anuraghazra/github-readme-stats)
+[![j0code's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0code&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0code)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0code&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
