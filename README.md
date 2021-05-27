@@ -13,3 +13,7 @@ I code since the age of about 11. I go to a german school, 10th grade.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0code&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![CustomDiscord](https://github-readme-stats.vercel.app/api/pin/?username=creelonestudios&repo=customdiscord&theme=tokyonight&show_icons=true)](https://github.com/creelonestudios/customdiscord)
+
+Top Languages is empty because I currently have no public repositories.
+
+Check [@creelonestudios](https://github.com/creelonestudios) to see what I'm doing (mostly js).
