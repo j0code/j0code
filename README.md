@@ -4,7 +4,7 @@ My name is Jonas and I taught myself how to code Java, JS, HTML and CSS. Full st
 
 I code since the age of about 11. I go to a german school, 10th grade.
 
-- 🔭 I’m currently working on CustomDiscord.
+- 🔭 I’m currently working on a free proxy.
 - 😄 Pronouns: any
 - ⚡ Fun fact: ...
 
@@ -14,6 +14,4 @@ I code since the age of about 11. I go to a german school, 10th grade.
 
 [![CustomDiscord](https://github-readme-stats.vercel.app/api/pin/?username=creelonestudios&repo=customdiscord&theme=tokyonight&show_icons=true)](https://github.com/creelonestudios/customdiscord)
 
-Top Languages is empty because I currently have no public repositories.
-
-Check [@creelonestudios](https://github.com/creelonestudios) to see what I'm doing (mostly js).
+Also check out [@creelonestudios](https://github.com/creelonestudios) !
