@@ -4,7 +4,7 @@ My name is Jonas and I taught myself how to code Java, JS, HTML and CSS. Full st
 
 I code since the age of about 11. I go to a german school, 10th grade.
 
-- 🔭 I’m currently working on a free proxy.
+- 🔭 I’m currently working on r/eternalplace, the everlasting r/place.
 - 😄 Pronouns: any
 - ⚡ Fun fact: ...
 
