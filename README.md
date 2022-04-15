@@ -14,4 +14,6 @@ I code since the age of about 11. I go to a german school, 10th grade.
 
 [![CustomDiscord](https://github-readme-stats.vercel.app/api/pin/?username=creelonestudios&repo=customdiscord&theme=tokyonight&show_icons=true)](https://github.com/creelonestudios/customdiscord)
 
+[![CustomDiscord](https://github-readme-stats.vercel.app/api/pin/?username=creelonestudios&repo=eternalplace&theme=tokyonight&show_icons=true)](https://github.com/creelonestudios/customdiscord)
+
 Also check out [@creelonestudios](https://github.com/creelonestudios) !
