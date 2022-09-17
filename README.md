@@ -2,14 +2,16 @@
 
 My name is Jonas and I taught myself how to code Java, JS, HTML and CSS. Full stack.
 
-I code since the age of about 11. I go to a german school, 10th grade.
+I code since the age of about 11. I go to a german school, 11th grade.
 
-<!--- 🔭 I’m currently working on songguesser, a very cool discord bot that is on discord.
+<!--- 🔭 I’m currently working on demon.js (Discord Bot) and other random stuff.
 - 😄 Pronouns: any
 - ⚡ Fun fact: ...-->
 
-<a href="https://stackoverflow.com/users/15886115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12486901" height="30" width="40" /></a>
-<a href="https://discord.com/users/418109742183874560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="j0code#7360" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15886115/" target="blank" title="Stackoverflow: j0code
+https://stackoverflow.com/users/15886115/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12486901" height="30" width="40" /></a>
+<a href="https://discord.com/users/418109742183874560" target="blank" title="Discord: @j0code#7360
+https://discord.com/users/418109742183874560"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="j0code#7360" height="30" width="40" /></a>
 
 <!--[![j0code's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0code&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
