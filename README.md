@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Jonas and I taught myself how to code Java, JS, HTML and CSS. Full stack.
+My name is Jonas and I taught myself how to code Java, JS, TS, HTML and CSS. Full stack.
+
+I also know some C and Ruby from school. Don't expect me to be good tho.
 
 I code since the age of about 11. I go to a german school, 11th grade.
 
