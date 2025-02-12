@@ -4,7 +4,7 @@ My name is Jonas and I taught myself how to code Java, JS, TS, HTML and CSS. Ful
 
 I also know some C and Ruby from school. Don't expect me to be good tho.
 
-I code since the age of about 11. I go to a German school, 12th grade.
+I code since the age of about 11. I go to a German university, currently studying for B.Sc. Informatics)
 
 <!--- 🔭 I’m currently working on demon.js (Discord Bot) and other random stuff.
 - 😄 Pronouns: any
